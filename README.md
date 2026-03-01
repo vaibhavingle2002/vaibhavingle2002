@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="AWS-Vaibhav.png" width="750" />
+  <img src="AWS-Vaibhav.png" width="999" />
 </p>
 
 # Hi, I'm Vaibhav Sudhakar Ingle 👋
