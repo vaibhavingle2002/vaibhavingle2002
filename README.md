@@ -27,4 +27,4 @@
 
 ## 📫 Connect with Me
 - 📧 Email: inglevaibhav667@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/your-link
+- 🔗 LinkedIn: www.linkedin.com/in/vaibhav-ingle-82518a274
